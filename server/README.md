@@ -16,18 +16,6 @@ A REST API built with Node, Nest.js and TypeScript. It leverages PostgreSQL and 
 
 ## Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/raresnicolaide/invoice-app.git
-   ```
-
-2. **Navigate to cloned repository:**
-
-   ```bash
-   cd invoice-app
-   ```
-
 3. **Navigate to server project:**
 
    ```bash

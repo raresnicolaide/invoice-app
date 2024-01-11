@@ -9,25 +9,13 @@ A frontend application built with React, Vite and TypeScript. It leverages Redux
 
 ## Installation
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/raresnicolaide/invoice-app.git
-   ```
-
-2. **Navigate to cloned repository:**
-
-   ```bash
-   cd invoice-app
-   ```
-
-3. **Navigate to client project:**
+2. **Navigate to client project:**
 
    ```bash
    cd client
    ```
 
-4. **Install dependencies:**
+3. **Install dependencies:**
 
    ```bash
    npm install
@@ -35,6 +23,12 @@ A frontend application built with React, Vite and TypeScript. It leverages Redux
 
    **Note:**
    In case there is any installation error try using `--legacy-peer-deps` flag
+
+4. **Start the project:**
+
+   ```bash
+   npm run start
+   ```
 
 ## Usage
 
