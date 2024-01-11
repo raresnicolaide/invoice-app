@@ -9,13 +9,13 @@ A frontend application built with React, Vite and TypeScript. It leverages Redux
 
 ## Installation
 
-2. **Navigate to client project:**
+1. **Navigate to client project:**
 
    ```bash
    cd client
    ```
 
-3. **Install dependencies:**
+2. **Install dependencies:**
 
    ```bash
    npm install
@@ -24,7 +24,7 @@ A frontend application built with React, Vite and TypeScript. It leverages Redux
    **Note:**
    In case there is any installation error try using `--legacy-peer-deps` flag
 
-4. **Start the project:**
+3. **Start the project:**
 
    ```bash
    npm run start

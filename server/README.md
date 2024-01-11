@@ -16,25 +16,25 @@ A REST API built with Node, Nest.js and TypeScript. It leverages PostgreSQL and 
 
 ## Installation
 
-3. **Navigate to server project:**
+1. **Navigate to server project:**
 
    ```bash
    cd server
    ```
 
-4. **Install dependencies:**
+2. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-5. **Start the PostgreSQL database with Docker:**
+3. **Start the PostgreSQL database with Docker:**
 
    ```bash
    docker-compose up
    ```
 
-6. **Apply database migrations:**
+4. **Apply database migrations:**
 
    ```bash
    npx prisma migrate dev
@@ -43,7 +43,7 @@ A REST API built with Node, Nest.js and TypeScript. It leverages PostgreSQL and 
    **Note:**
    This will also generate the prisma client and seed the database
 
-7. **Start the project:**
+5. **Start the project:**
 
    ```bash
    npm run start:dev
